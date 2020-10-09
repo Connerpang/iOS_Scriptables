@@ -65,7 +65,7 @@ if (fm.fileExists(backgroundImageURLInput) == false) {
 var spacing = parseInt(inputArr[1]);
 
 //API_KEY
-let API_WEATHER = "0774442435e3a5b0b22c2d774d63fe73";//Load Your api here
+let API_WEATHER = "XXXXXXXXXXXXXXXXXX";//Load Your api here
 let CITY_WEATHER = "1880574";//add your city ID
 
 //Get storage
